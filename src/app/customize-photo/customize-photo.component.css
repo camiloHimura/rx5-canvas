@@ -1,0 +1,17 @@
+.contCanvas{
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+.file{
+  margin: 0 auto;
+  display: block;
+}
+.contRange{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+canvas{
+  width: 100%;
+}
